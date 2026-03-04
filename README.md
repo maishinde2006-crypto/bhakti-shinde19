@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
+<h1 align="center">Hi 👋, I'm Bhakti Shinde</h1>
 <h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+  <a href="mailto:maishinde2006@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/iam_adi29">
